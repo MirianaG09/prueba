@@ -10,4 +10,4 @@ Este es un curso introductorio al procesamiento de datos geográficos.
 2. Aprender el lenguaje de marcado [Markdown](https://markdown.es/)
 3. Aprender el sistema de control de versiones [Git](https://git-scm.com/)
 
-[](https://upload.wikimedia.org/wikipedia/commons/1/1f/As08-16-2593.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/1/1f/As08-16-2593.jpg)
